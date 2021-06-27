@@ -11,3 +11,6 @@ C:\Program Files (x86)\1cv8\8.3.16.1814\bin\1cv8  DESIGNER /WA- /DisableStartupD
 /DumpConfigToFiles "D:\CPM_3_1_9_2" -format Hierarchical
 -update -configDumpInfoForChanges "D:\CPM_3_1_8_2\ConfigDumpInfo.xml" -getChanges "D:\CPM_3_1_9_2\diff2021-06-27 1300.txt" 
 /DumpResult "D:\CPM_3_1_8_2\DumpInfo2021-06-27 1300.log" /Out "D:\CPM_3_1_8_2\ЛогВыгрузкиЗагрузки_2021-06-27 1300.log" -NoTruncate
+
+
+https://youtu.be/EVnJQd1F6a8
