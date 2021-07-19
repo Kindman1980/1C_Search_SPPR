@@ -12,4 +12,6 @@
 
 Последние изменения в этой версии расширения https://github.com/Kindman1980/1C_Search_SPPR/blob/main/TrackingChangesAfterIncrementalDump/Update1/ExtensionForUpdate1.cfe"
 
+Видео про то как я это программировал и как это работает здесь https://youtu.be/Z__F2pzWl9M Премьера 2021-07-19 в 20.00
+
 
